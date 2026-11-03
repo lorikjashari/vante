@@ -1,0 +1,40 @@
+# Vanté Agency
+
+> Digital studio from Kosovo. We design and engineer premium web experiences for brands across Europe and worldwide.
+
+## About
+
+Vanté Agency (https://vanteagency.dev) is a professional web development and UI/UX design studio founded by Lorik Jashari. Based in Kosovo, serving clients in Switzerland, Europe, and internationally.
+
+## Services
+
+- Web Development
+- UI/UX Design
+- Business Websites
+- Landing Pages
+- Backend Systems
+- Performance Optimization
+- Custom Digital Solutions
+
+## Portfolio
+
+- Qiwo Global Logistic — https://qiwogloballogistic.com/
+- IMPERIUM AUTO GENEVE — https://imeperiumgeneve.ch
+- 8A8 Internet Café — https://8a8gaming.com
+- FAF Services — https://fafservices.ch
+- Rizahi Sàrl — https://rizahisarl.ch
+- Erapropre Bim Sàrl — https://erapropre.ch
+
+## Contact
+
+- Email: contact@vanteagency.dev
+- Phone: +383 44 296 750
+- Website: https://vanteagency.dev/#contact
+
+## Key pages
+
+- Home: https://vanteagency.dev/
+- Services: https://vanteagency.dev/#services
+- About: https://vanteagency.dev/#about
+- Work: https://vanteagency.dev/#projects
+- Contact: https://vanteagency.dev/#contact

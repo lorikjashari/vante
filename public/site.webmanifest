@@ -1,0 +1,25 @@
+{
+  "name": "Vanté Agency",
+  "short_name": "Vanté",
+  "description": "Digital studio from Kosovo. Design and engineering for brands that demand more than ordinary.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F4F1E8",
+  "theme_color": "#F4F1E8",
+  "lang": "en",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/task_01kcac84xvf3srayqjx46je6a4_1765580016_img_0.webp",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/task_01kcac84xvf3srayqjx46je6a4_1765580016_img_0.webp",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "any maskable"
+    }
+  ]
+}
